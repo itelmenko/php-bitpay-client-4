@@ -1,5 +1,5 @@
 {
-    "name": "itelmenko/php-client",
+    "name": "itelmenko/php-bitpay-client",
     "description": "PHP Library to work with the new cryptographically secure BitPay API (support for Symfony v4)",
     "license": "MIT",
     "minimum-stability": "stable",
