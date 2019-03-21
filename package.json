@@ -1,6 +1,6 @@
 {
-  "name": "php-bitpay-client-4",
-  "description": "PHP Client Library for the BitPay Bitcoin Payment Gateway (support for Symfony v4)",
+  "name": "php-bitpay-client",
+  "description": "PHP Client Library for the BitPay Bitcoin Payment Gateway",
   "directories": {
     "lib": "src",
     "doc": "docs",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/itelmenko/php-bitpay-client-4.git"
+    "url": "https://github.com/bitpay/php-bitpay-client.git"
   },
   "keywords": [
     "bitpay",
@@ -28,9 +28,9 @@
   "author": "BitPay Integrations Development Team",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/itelmenko/php-bitpay-client-4/issues"
+    "url": "https://github.com/bitpay/php-bitpay-client/issues"
   },
-  "homepage": "https://github.com/itelmenko/php-bitpay-client-4",
+  "homepage": "https://github.com/bitpay/php-bitpay-client",
   "engines": {
     "node": ">=0.10.33",
     "npm": "~2.1.5"
