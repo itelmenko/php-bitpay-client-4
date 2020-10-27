@@ -4,7 +4,7 @@ itelmenko/php-bitpay-client
 
 This is a self-contained PHP implementation of BitPay's new cryptographically secure API: https://bitpay.com/api
 
-It's fork of [bitpay/php-bitpay-client](https://github.com/bitpay/php-bitpay-client) with support for Symfony v4.
+It's fork of [bitpay/php-bitpay-client](https://github.com/bitpay/php-bitpay-client) with support for Symfony v5.
 
 # Installation
 
@@ -25,7 +25,7 @@ Add to your composer.json file by hand.
     ...
     "require": {
         ...
-        "bitpay/php-client": "^4.0"
+        "bitpay/php-client": "^5.0"
     }
     ...
 }
@@ -40,7 +40,7 @@ php composer.phar update bitpay/php-client
 ### Install using composer
 
 ```bash
-php composer.phar require bitpay/php-client:^4.0
+php composer.phar require bitpay/php-client:^5.0
 ```
 
 ## Documentation
